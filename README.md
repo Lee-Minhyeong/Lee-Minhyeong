@@ -1,4 +1,12 @@
-## Hi there 👋
+## Lee Minhyeong
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhmhmh092)](https://solved.ac/mhmhmh092/)
+
+
+### Language 📍
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=WHITE)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=WHITE)
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=WHITE)
 
 <!--
 **Lee-Minhyeong/Lee-Minhyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
