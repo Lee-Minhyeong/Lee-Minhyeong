@@ -1,15 +1,17 @@
 ## Lee Minhyeong
+- 🐯 Korea University
+- 💻 Computer Science & Engineering
 
-### 📍 Language 
+## 📍 Language 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,scala,&theme=light)
 
-### 💻 Tool
+## 🛠 Tool
 ![My Skills](https://skillicons.dev/icons?i=clion,cmake,idea,linux,pycharm,visualstudio,&theme=light)
 
-### 🔗 Platform
+## 🔗 Platform
 ![My Skills](https://skillicons.dev/icons?i=github,notion,gmail,&theme=light)
 
-### 🌱 BOJ
+## 🌱 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhmhmh092)](https://solved.ac/mhmhmh092/)
 
 
