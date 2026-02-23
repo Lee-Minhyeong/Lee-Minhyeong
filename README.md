@@ -1,18 +1,10 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhyeong)](https://github.com/Lee-Minhyeong/github-readme-stats)
+# Lee-Minhyeong
+🐯 Korea University <br>
+💻 Computer Science & engineering
+
+## 🛠 Tech
+![My Skills](https://skillicons.dev/icons?i=py,cpp,c,scala,&theme=light) <br>
+![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,linux,&theme=light)
+
+## 🌱 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhmhmh092)](https://solved.ac/mhmhmh092/)
-
-
-<!--
-**Lee-Minhyeong/Lee-Minhyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
