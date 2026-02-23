@@ -1,17 +1,4 @@
-## Lee Minhyeong
-- 🐯 Korea University
-- 💻 Computer Science & Engineering
-
-## 📍 Language 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,scala,&theme=light)
-
-## 🛠 Tool
-![My Skills](https://skillicons.dev/icons?i=clion,cmake,idea,linux,pycharm,visualstudio,&theme=light)
-
-## 🔗 Platform
-![My Skills](https://skillicons.dev/icons?i=github,notion,gmail,&theme=light)
-
-## 🌱 BOJ
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhyeong)](https://github.com/Lee-Minhyeong/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhmhmh092)](https://solved.ac/mhmhmh092/)
 
 
